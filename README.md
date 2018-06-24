@@ -35,5 +35,6 @@ npm run dev
 our api test is on postman:
 https://www.getpostman.com/collections/91ec44dd2f21635f6192
 
-> please install Postman to test api. it's a very handy software to test and make doc for api
+> please install Postman and import collection to test api. 
+it's a very handy software to test api and make doc for that
 
