@@ -31,9 +31,13 @@ it's a very handy software to test api and make doc for that
 * **emailsender** : send emails
 * **express-rate-limit** : rate limit of express
 * **express-validator** : validate requests
+* **jsonwebtoken** : make json web token
+* **mongoose** : connect and use MongoDB
+* **mongoose-paginate** : pagination data for MongoDB
+* **mongoose-timestamp** : CreatedAt and UpdatedAt fields for MongoDB
 * **multer** : upload files
 * **uniqid** : make string for validate email
-
+ 
 ## Help
 
 **header for send token** : x-access-token
