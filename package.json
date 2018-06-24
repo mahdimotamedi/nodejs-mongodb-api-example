@@ -1,7 +1,7 @@
 {
   "name": "pinshow-nodejs-api",
   "version": "1.0.0",
-  "description": "pinshow server side with NodeJS and MongoDB",
+  "description": "api MVC with NodeJS and MongoDB",
   "main": "server.js",
   "scripts": {
     "dev": "nodemon server.js",
