@@ -1,5 +1,5 @@
 {
-  "name": "pinshow-nodejs-api",
+  "name": "nodejs-mongodb-api-example",
   "version": "1.0.0",
   "description": "api MVC with NodeJS and MongoDB",
   "main": "server.js",
