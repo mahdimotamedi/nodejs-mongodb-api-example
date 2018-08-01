@@ -1,6 +1,16 @@
 const sender = require('emailsender');
 
 module.exports = new class EmailSender {
+
+    /**
+     * sent email
+     *
+     * @param from
+     * @param to
+     * @param subject
+     * @param content
+     * @param callback
+     */
     sent(from, to, subject, content, callback) {
 
         let mailConfig = {

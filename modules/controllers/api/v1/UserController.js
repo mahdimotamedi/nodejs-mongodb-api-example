@@ -20,6 +20,7 @@ module.exports = new class UserController extends Controller {
 
     /**
      * edit user settings
+     *
      * @param req
      * @param res
      */
@@ -83,6 +84,7 @@ module.exports = new class UserController extends Controller {
 
     /**
      * upload or select avatar of user
+     *
      * @param req
      * @param res
      */
